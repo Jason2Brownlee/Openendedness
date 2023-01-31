@@ -1,0 +1,14 @@
+
+I could work through textbooks on ec and implement everything
+use a simple language like python
+use arrays to get some speed
+demo everything
+make a site that crushes the niche
+probably a code base that has examples of everything
+probably books on main topics
+
+the risk is that it is all an overlap with mlmastery
+that i would get into trouble directly or indirectly, a conflict
+
+might be best to put this project to sleep for 2 years
+

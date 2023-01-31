@@ -1,0 +1,73 @@
+We have not achieved artificial evolution
+
+David Deutsch points out what we are missing in his book "The Beginning of Infinity".
+
+The book is dense, and so is the prose, so it's easy for me to miss important detail as I paraphrase.
+
+Chapter 7 is titled "Artificial Creativity" and covers the lack of progress in AI caused by a lack of understanding of how creativity works.
+
+An analogy of the failure is made to artificial evolution and in turn our understanding of evolution on which it is based.
+
+	The field of artificial (general) intelligence has made no progress because there is an unsolved philosophical problem at its heart: we do not understand how creativity works. Once that has been solved, programming it will not be difficult. Even artificial evolution may not have been achieved yet, despite appearances. There the problem is that we do not understand the nature of the universality of the DNA replication system.
+
+-- Page 163, The Beginning of Infinity, 2011.
+
+A situation is described of a project to make a robot walk. The goal is defined, then the subroutines are written that provide a library of activities the robot could use in walking.
+
+The right combination must then be found to allow the robot to walk. This process can be automated using an evolutionary algorithm.
+
+	But an alternative approach is also open to you: you can delegate the perspiration to a computer, but using a so-called evolutionary algorithm.
+
+-- Page 160, The Beginning of Infinity, 2011.
+
+A solution can be found, and this is claimed as a success of artificial evolution.
+
+The problem is, it does not create knowledge.
+
+	It is a useful technique. It certainly constitutes ‘evolution’ in the sense of alternating variation and selection. But is it evolution in the more important sense of the creation of knowledge by variation and selection?
+
+-- Page 160, The Beginning of Infinity, 2011.
+
+The knowledge was added by the programmer.
+
+The programmer chose the objective, created the hardware, defined the subroutines of the program, and them method of searching the space of programs.
+
+	The reason is that there is a much more obvious explanation of their abilities, namely the creativity of the programmer.
+
+-- Page 160, The Beginning of Infinity, 2011.
+
+We know we are missing something, because evolutionary algorithms converge.
+
+They do not continue "evolving" forever.
+
+	One thing that always seems to happen with such projects is that, after they achieve their intended aim, if the ‘evolutionary’ program is allowed to run further it produces no further improvements.
+
+-- Page 161, The Beginning of Infinity, 2011.
+
+The solution might be to evolve the language along with the adapted solution.
+
+This is perhaps akin to evolving the structure of DNA along with the organisms.
+
+	One of the main features of the above experiment, which is lacking in the usual way of doing artificial evolution, is that, for it to work, the language (of subroutines) would have to evolve along with the adaptations that it was expressing. This is what was happening in the biosphere before that jump to universality that finally settled on the DNA genetic code.
+
+-- Page 162, The Beginning of Infinity, 2011.
+
+In our artificial evolution, we are assuming that DNA evolved first, then the biosphere evolved. This is not the case, although we don't know a lot about this area.
+
+	... it may be that all those previous genetic codes were only capable of coding for a small number of organisms that were all rather similar. And that the overwhelmingly rich biosphere that we see around us, created by randomly varying genes while leaving the language unchanged, is something that became possible only after that jump. We do not even know what kind of universality was created there. So why should we expect our artificial evolution to work without it?
+
+-- Page 162, The Beginning of Infinity, 2011.
+
+We don't even understand DNA all that well. Specifically, the "reach" of DNA, meaning its ability to create knowledge, to facilitate the breadth of species in the tree of life.
+
+	 Specifically, we do not know why the DNA code, which evolved to describe bacteria, has enough reach to describe dinosaurs and humans.
+
+-- Page 162, The Beginning of Infinity, 2011.
+
+
+Related
+
+- Contra David Deutsch on AI
+https://www.dwarkeshpatel.com/p/universal-explainers
+- It's amazing how David Deutsch is exactly wrong in his AI predictions.
+https://www.reddit.com/r/slatestarcodex/comments/hwy15r/its_amazing_how_david_deutsch_is_exactly_wrong_in/

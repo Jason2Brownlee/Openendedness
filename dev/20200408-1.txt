@@ -1,0 +1,44 @@
+
+- the idea of a 1 year project on open ended evolution and perhaps a monograph in the topic
+- sounds fun
+- as long as I can run my own experiments
+
+
+Quality Diversity: A New Frontier for Evolutionary Computation
+https://www.frontiersin.org/articles/10.3389/frobt.2016.00040/full
+
+- are these maze problems so contrived that they don't match the properties of real problems?
+
+- I would need to work toward a problem where open endedness offers a clear benefit
+- hacking on some abstract domain would not be long term interesting
+
+Quality and Diversity Optimization: A Unifying Modular Framework
+https://arxiv.org/abs/1708.09251
+
+Comparison of multi-modal optimization algorithms based on evolutionary algorithms
+https://dl.acm.org/doi/pdf/10.1145/1143997.1144200
+
+- niching totally fits into things
+
+https://github.com/sferes2/modular_QD
+
+Evolving Neural Networks through Augmenting Topologies
+http://nn.cs.utexas.edu/downloads/papers/stanley.ec02.pdf
+
+- the neat paper
+
+Evolving a Diversity of Creatures through Novelty Search and Local Competition
+https://www.cs.swarthmore.edu/~meeden/cs81/f17/papers/lehman_gecco11.pdf
+
+- lc extension to ns
+- creatures
+
+http://eplex.cs.ucf.edu/ns/vc.html
+http://eplex.cs.ucf.edu/neat_software/#novelty
+http://eplex.cs.ucf.edu/ns/
+
+https://www.reddit.com/r/IAmA/comments/3xqcrk/im_ken_stanley_artificial_intelligence_professor/?sort=confidence
+
+Identifying Necessary Conditions for Open-Ended Evolution through the Artificial Life World of Chromaria
+http://eplex.cs.ucf.edu/papers/soros_alife14.pdf
+

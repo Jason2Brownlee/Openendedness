@@ -1,0 +1,66 @@
+Evolution: Limited & Predictable or Unbounded & Lawless?
+https://www.worldwidewanderings.net/Publications/EvolutionViews.pdf
+
+- novelty search is a type of non-objective search
+- are there other types of non-objective search
+- there's always an objective, it just means using a different objective than the true goal
+
+Novelty search: a theoretical perspective
+https://dl.acm.org/doi/10.1145/3321707.3321752
+
+- uniform random search in behavior space
+- for behavior space that cannot be sampled directly
+	- we cannot sample cakes directly
+	- we can sample recipes that create cakes
+
+- efficient search over the reachable behavior space
+- uniform sampling of reachable behavior space
+
+- I guess it assumes that the objective function is deceptive
+	- applies to some, but not all tasks
+
+- the objective that is used must be aligned with the true objective in some way
+- the behaviors elicited bust be appropriate
+
+- it might be fun to explore different objectives for a given simple task, e.g. onemax or func opt
+
+- fitness is relative to where the search has already been in behavior space
+- dynamic objective function
+
+
+Illuminating search spaces by mapping elites
+https://arxiv.org/abs/1504.04909
+
+- illumination search
+	- vs optimization
+- shift in focus away from the objective and toward sampling behavior space
+- all sounds like niching to me
+
+Comparing multimodal optimization and illumination
+https://www.researchgate.net/publication/317688725_Comparing_multimodal_optimization_and_illumination
+
+niching can do as well
+
+
+Minimal Criteria Novelty Search (MCNS)
+Novelty Search with Local Competition (NSLC)
+
+Quality Diversity: A New Frontier for Evolutionary Computation
+https://www.frontiersin.org/articles/10.3389/frobt.2016.00040/full
+
+- different from niching
+- niching balances diversity and quality
+- novelty search is only concerned with phenotype diversity
+
+- divergent search algorithms
+- requires complex mapping of G to P
+
+- what if we use a neural net to learn a mapping of G to P
+- optimize the mapping is the novelty search, and the "task" is a single ga run with the mapping
+
+- quality divergent search re-introduces the objective into behaviors
+- multi-objective is one approach
+- qd - store best performing behavior for a behavior niche
+- e.g. map elites
+
+

@@ -1,0 +1,43 @@
+papers to explore
+
+
+- Defining and simulating open-ended novelty: requirements, guidelines, and challenges. 2016
+- Modelling and measuring open-endedness, 2021
+- Two modes of evolution: Optimization and expansion, 2019
+- Formal definitions of unbounded evolution and innovation reveal universal mechanisms for open-ended evolution in dynamical systems, 2017.
+- Novelty Search and the Problem with Objectives, 2011.
+- Undecidability and irreducibility conditions for open-ended evolution and emergence, 2018
+- Abandoning Objectives: Evolution Through the Search for Novelty Alone, 2011
+- Curiosity eliminates the exploration-exploitation dilemma, 2019
+- Novelty search for global optimization, 2019
+- Novelty Search makes Evolvability Inevitable, 2020
+- Go-Explore: A New Approach for Hard-Exploration Problems, 2019
+- Quality Diversity: A New Frontier for Evolutionary Computation, 2016
+- Scaling MAP-Elites to Deep Neuroevolution, 2020
+- Illuminating search spaces by mapping elites, 2015
+- Continual lifelong learning with neural networks, 2019
+- Questions for the Open-Ended Evolution Community: Reflections from the 2021 Cross Labs Innovation Science Workshop, 2021
+- Why open-endedness matters, 2019
+
+
+Ken Stanley
+	https://www.cs.ucf.edu/~kstanley/
+	https://www.kenstanley.net/home
+	https://scholar.google.com/citations?hl=en&user=6Q6oO1MAAAAJ
+
+
+Other papers
+
+- A biological perspective on evolutionary computation, 2021 [NATURE]
+
+
+
+The Bitter Lesson, Rich Sutton, 2019
+
+	... Essential to these methods is that they can find good approximations, but the search for them should be by our methods, not by us. We want AI agents that can discover like we can, not which contain what we have discovered. Building in our discoveries only makes it harder to see how the discovering process can be done.
+
+http://www.incompleteideas.net/IncIdeas/BitterLesson.html
+
+
+collect all the papers/pdfs
+upload content to github

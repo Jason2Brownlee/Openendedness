@@ -1,0 +1,25 @@
+
+evolution as a solution for the problem of survival
+
+- how do you get a thing to survive indefinitely?
+
+evolution as a way to achieve this
+has pre-conditions
+- properties of the environment
+	- limited resources
+	- competition
+- properties of the individual
+	- limited life
+	- reproduction
+	- copying errors
+
+it may be the most effective solution under these conditions
+emergent effects of discovery, adaptation, etc.
+selection operates on the emergent effects using the simple underlying processes
+
+not new stuff here, just a better framing for what the process is all about
+it is not an optimizer
+it is a solution to survival
+
+
+I like this angle a lot.

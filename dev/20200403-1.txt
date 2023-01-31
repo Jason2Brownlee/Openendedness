@@ -1,0 +1,107 @@
+what if I just explored independent research projects
+
+follow curiosity
+write up what i learn into a monograph
+
+What’s holding artificial life back from open-ended evolution?
+https://thewinnower.com/papers/2309-what-s-holding-artificial-life-back-from-open-ended-evolution
+
+might be fun to explore small experiments
+
+niching with a cost function that has noise on a sine wave over time
+- e.g. ever changing env and built-in diversity preservation
+
+OEE1 Workshop (Session 1, 20 July 2015) video recording (Part 4/5)
+https://www.youtube.com/watch?v=vTV7SJUOzzQ&feature=youtu.be&t=22m46s
+
+- what are the barriers to open endedness
+- continual change
+- continual complexity
+- potential
+	- change
+	- novelty
+	- complexity
+	- ecological
+
+- vary the environment
+- new environments
+
+The evolutionary origin of complex features
+http://myxo.css.msu.edu/papers/nature2003/Nature03_Complex.pdf
+
+- some env for experiments
+
+Illuminating search spaces by mapping elites
+https://arxiv.org/abs/1504.04909
+
+- nice niching approach
+
+Evolving a diversity of virtual creatures through novelty search and local competition
+https://www.cs.swarthmore.edu/~meeden/cs81/f17/papers/lehman_gecco11.pdf
+
+- diversity within one "env"
+- forced, there's no why other than local competition
+- perhaps that's all that's needed
+- the drive seems insufficient to me
+
+Efficiently evolving programs through the search for novelty
+https://dl.acm.org/doi/pdf/10.1145/1830483.1830638
+
+Coevolutionary Principles, 2012
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.189.4593&rep=rep1&type=pdf
+
+Novelty Search in Competitive Coevolution
+https://arxiv.org/abs/1407.0576
+
+Welcoming the Era of Deep Neuroevolution
+https://eng.uber.com/deep-neuroevolution/
+
+Kenneth O. Stanley
+https://www.cs.ucf.edu/~kstanley/
+
+Robots that can adapt like animals
+https://arxiv.org/pdf/1407.3501.pdf
+
+A Visual Guide to Evolution Strategies
+http://blog.otoro.net/2017/10/29/visual-evolution-strategies/
+
+Abandoning Objectives: Evolution through the Search for Novelty Alone
+https://www.cs.swarthmore.edu/~meeden/DevelopmentalRobotics/lehman_ecj11.pdf
+
+- journal paper on novelty search
+
+Evolving new lexical association measures using genetic programming
+https://www.aclweb.org/anthology/P08-2046.pdf
+
+Large-Scale Evolution of Image Classifiers
+https://arxiv.org/pdf/1703.01041.pdf
+
+- large accurate nets for image classification using ecs
+
+AutoML-Zero: Evolving Machine Learning Algorithms From Scratch
+https://arxiv.org/pdf/2003.03384.pdf
+
+AutoML-Zero
+https://github.com/google-research/google-research/tree/master/automl_zero#automl-zero
+
+OEE1: Open Ended Evolution: Recent Progress and Future Milestones
+http://www.alife.org/workshops/oee1/
+https://www.youtube.com/watch?list=PLPW1sBn63ZawUbthYT3gu-VZgDIjjaNh3&v=HZeNHtTgnPg&feature=emb_title
+
+- increases in complexity can lead to increases in novelty
+- need unbounded complexity -> unbounded novelty -> open endedness
+
+Ken Stanley: Discovery Without Objectives
+https://www.youtube.com/watch?v=tZBViI8ZaU0
+
+next?
+
+do i want to do experiments in open endedness
+do i want to experiments with novelty search
+do i want to experiments with neuroevolution in games
+
+
+
+
+
+

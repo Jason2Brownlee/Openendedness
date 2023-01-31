@@ -1,0 +1,27 @@
+Evolvability
+https://en.wikipedia.org/wiki/Evolvability
+
+fascinating topic
+if we can define and measure it, we can explore approaches that do better or worse
+hard problem for sure!
+related to open ended evolution
+
+fascinating!
+
+Evolutionary capacitance
+https://en.wikipedia.org/wiki/Evolutionary_capacitance
+
+interesting idea
+
+
+what is all this on learned optimizers?
+- so-called "learning to learn"
+
+- Reverse engineering learned optimizers reveals known and novel mechanisms
+	https://arxiv.org/abs/2011.02159
+- Training Learned Optimizers with Randomly Initialized Learned Optimizers
+	https://arxiv.org/pdf/2101.07367.pdf
+- Understanding and correcting pathologies in the training of learned optimizers
+	http://proceedings.mlr.press/v97/metz19a/metz19a.pdf
+- Learned Optimizers that Scale and Generalize
+	http://proceedings.mlr.press/v70/wichrowska17a/wichrowska17a.pdf

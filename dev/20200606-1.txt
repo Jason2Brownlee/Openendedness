@@ -1,0 +1,42 @@
+
+thoughts while reading the adaptive landscape / innovation book
+
+- explore competition as emergent
+- explore bacteria evolution
+	- all the useful mechanisms used
+- explore the more sophisticated multi-cellular evolution
+	- more complex mechanisms
+- explore genetic drift
+	- more or less impact than selection based on organism size
+- explore a brute force solver for bit strings
+	- and other
+
+it occurs to me that the process is over simplified
+the system does not develop useful mechanisms itself
+it is forced to bootstrap in an existing environment with an existing set of mechanisms
+no idea if they are appropriate
+cannot really do discovery
+the mechanisms of evolution must be under evolution as well.
+
+
+I like the idea if digging into all of this as independent research
+
+It might be a good idea to benchmark a few different implementation approaches
+seed is important
+also compare to other languages, like compiled languages
+
+also, experiment with code that uses the gpu
+
+I coded a simple ga using vanilla python
+it's really slow
+
+i am not the efficient code guy
+making the code run fast will be some serious engineering
+possible, but work, and not super fun
+
+might be easier to use an existing lib
+or switch to compiled language or similar that is just fast by default so i can write clear code instead
+
+next
+- try numpy
+- try simple speed up tricks

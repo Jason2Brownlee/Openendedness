@@ -1,0 +1,91 @@
+sniffing around ecology / evolution wikipedia
+
+looking at a number of books on evolution and evolutionary ecology
+
+- Discovering Evolutionary Ecology (2006)
+- Ecological-Evolutionary theory (2005)
+- Evolutionary ecology (2001)
+
+behavioral ecology looks interesting, e.g. behavior as an adaptive trait, in addition to phenotype
+
+- An introduction to behavioural ecology (2012)
+
+Also general books on evolution:
+
+- What evolution is (2002)
+
+looks great. I might audiobook + paper book it as well.
+
+Some books i want to get but pdf's are not out there:
+
+- Speciation, 2004
+- The Ecology of Adaptive Radiation, 2000
+
+The idea of doing a masters in this stuff would be fun, but I don't want to go down to biochemistry. I want to stay up at the systems level.
+
+Also, not sure I want to go down into the marth of ecology and speciation, e.g. this book looks so boring:
+
+- Fitness landscapes and the origin of species (2004)
+
+lots of interesting topics that I want to learn more about
+mostly related to:
+- speciation
+- adaptive radiations
+
+not sure why.
+
+for example, if we develop models of speciation and adaptive radiations in software as a problem solving technique, so what. it's only interesting if it can achieve results that other techniques cannot achieve
+
+perhaps tie back to the idea of open ended evolution
+
+e.g. exploring open ended evolution as a project, or at least ideas on how we might address it before actually diving in
+
+i'd really like a definition of a goal state for open ended evolution.
+
+for example, if the domain was optimization of some kind, what would be considered open ended evolution and what would not be considered open ended evolution?
+
+can we then develop something that achieves the end state?
+
+I can imagine simple base organisms that can be let loose in different domains and adapt to learn to live in those domains. e.g. the same base is a useful starting point for solving a range of problems
+
+it would have to have indirection between raw data and reading mechanism and both data and reading mechanism would have to be subject to evolution. sounds fun.
+
+sounds like multi-task learning with the same base "organism". you can then race different base algorithms to see how well / how quickly they adapt to different problem domains
+
+for me, true open ended evolution / long running evolutionary algorithms should be surprising. it should be able to develop structures that are ever-more exploitative (fit / efficient at being fit).
+
+They call this: the evolution of novelty or a "major transition"
+
+the idea of a sea creatures going on land or a land creature taking to the air is perhaps the leading edge of "surprising". the equivalent in a software simulation could be considered, even allowed for in base designs.
+
+we don't really have systems that can do this, do we?
+how fascinating though, if we did.
+
+if this is all interesting, then it would be a good idea to spec small 1-4 week projects to actually create work product, otherwise it will be unbounded research
+
+say
+- evolution intro
+- speciation
+- adaptive radiation
+- open ended evolution intro
+	- alife perspective
+	- biology perspective
+- proposed approach to open ended evolution
+
+each could be one week with a report / mono graph as the output (100 page)
+
+a 2d platform game/env test harness would be fun
+- e.g. resources that are out of reach that requires novelty / innovation in forms to reach
+
+most species go extinct when challenged
+life is tenacious, so even just a few survivors can pull the species back along a new path
+
+this is a fun area.
+
+
+
+
+
+
+
+

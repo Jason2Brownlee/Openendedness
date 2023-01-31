@@ -1,0 +1,57 @@
+
+Why Greatness Cannot Be Planned: The Myth of the Objective, 2015.
+Kenneth O. Stanley and Joel Lehman
+
+- evolution is just survive + reproduce
+- there is no objective
+- competition is emergent
+- selection is a simplification of competition
+- can we contrive the environment so that competition is emergent, so that selection is emergent
+- we can then just setup the survival and reproduce dynamics and let the survival define selection
+- this makes sense for a simulation, but less so for a a simple func opt
+- maybe there is something there, or maybe you fall back on explicit selection for "survival"
+
+Novelty-Driven Particle Swarm Optimization
+https://pure.itu.dk/portal/files/80993212/galvao.pdf
+
+- uses gp
+- blah
+
+On the Critical Role of Divergent Selection in Evolvability
+https://www.frontiersin.org/articles/10.3389/frobt.2016.00045/full
+
+Learning Behavior Characterizations for Novelty Search
+http://www.cs.utexas.edu/users/ai-lab/downloadPublication.php?filename=http://nn.cs.utexas.edu/downloads/papers/meyerson.gecco16.pdf&pubid=127568
+
+- i wonder if we can learn a fitness function, or an objective function
+- a learned interpretation of the phenotype in the domain
+- what would motivate the learning?
+
+Abandoning Objectives: Evolution Through the Search for Novelty Alone
+https://www.mitpressjournals.org/doi/abs/10.1162/EVCO_a_00025
+
+- search for novelty drives complexity
+- objective function may not reward the stepping stones on the way to the solution
+- deception
+- often overcome with a carefully designed curriculum - lead along the path to the solution
+- alife has no goal other than survival and replication
+- growth in complexity is passive, it is not selected
+
+- is there a useful metaphor for novelty search?
+- fuss is the search for novel fitness scores - interesting
+
+- this paper does cover all the alternates
+- fitness objective strongly limits a given search
+- niching as a way of avoiding competition in nature, at least with other species
+
+Deep Neuroevolution: Genetic Algorithms are a Competitive Alternative for Training Deep Neural Networks for Reinforcement Learning
+https://arxiv.org/pdf/1712.06567.pdf
+
+- wow, cool results
+
+The Surprising Creativity of Digital Evolution: A Collection of Anecdotes from the Evolutionary Computation and Artificial Life Research Communities
+https://arxiv.org/pdf/1803.03453.pdf
+
+
+
+

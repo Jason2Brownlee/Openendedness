@@ -1,0 +1,87 @@
+other topics i have been thinking about
+
+- anthropology
+	https://en.wikipedia.org/wiki/Anthropology
+- biological anthropology
+	https://en.wikipedia.org/wiki/Biological_anthropology
+- animal behavior - ethology
+	https://en.wikipedia.org/wiki/Ethology
+- ecology
+	https://en.wikipedia.org/wiki/Ecology
+- ecological niche
+	https://en.wikipedia.org/wiki/Ecological_niche
+- Fitness landscape
+	https://en.wikipedia.org/wiki/Fitness_landscape
+- Niche differentiation
+	https://en.wikipedia.org/wiki/Niche_differentiation
+- Speciation
+	https://en.wikipedia.org/wiki/Speciation
+- Niche construction
+	https://en.wikipedia.org/wiki/Niche_construction
+
+
+
+- rl
+	https://en.wikipedia.org/wiki/Reinforcement_learning
+	http://rlai.ualberta.ca/
+
+- a site dedicated to metaheuristics would be fun
+- lots of algorithms to cover
+- easy niche to dominate
+- lots of theory to dip into
+- no practical application
+
+
+- it might be fun to set the research agenda of: non-convergent search
+
+- convergence
+	https://en.wikipedia.org/wiki/Convergence
+- convergence, ec
+	https://en.wikipedia.org/wiki/Convergence_(evolutionary_computing)
+
+- i think it is a function of the objective
+	- you convergence because the objective is simple and static
+- convergence is the right thing to do for a simple problem
+- it is the wrong thing to do for an open problem
+
+- GPs
+- Genetic Programming IV
+- john koza
+	https://en.wikipedia.org/wiki/John_Koza
+	http://www.genetic-programming.com/johnkoza.html
+
+
+- open domains like design
+	- programs
+	- circuits
+	- virtual creatures
+	- etc.
+- domains where GPs are used, not EAs
+- domains where RL are used
+
+- non-convergence is divergence
+- divergent search
+
+- A collection of papers on divergence and quality diversity
+	https://github.com/DanieleGravina/divergence-and-quality-diversity
+
+Searching for the Unexpected: Evolution through Surprise
+	http://gravinadaniele.com/wp-content/uploads/2019/08/phd_thesis.pdf
+
+- novelty vs suprise
+	- novel is not seen before
+	- surprise is unexpected
+	- novelty can be surprising or not
+	- surprise does not have to be novel
+
+- to my mind, random would be maximumly surprising, in the sense of entropy/information theory
+
+I would love to have a system that can run and give viable solutions, the longer it runs, the more different and better solutions it gives - without end - we would not want to turn it off
+
+- ethnography
+	https://en.wikipedia.org/wiki/Ethnography
+- Cyber-ethnography
+	https://en.wikipedia.org/wiki/Cyber-ethnography
+- Netnography
+	https://en.wikipedia.org/wiki/Netnography
+

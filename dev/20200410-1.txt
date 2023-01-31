@@ -1,0 +1,62 @@
+
+- i think all of this could get very boring if there is not a concrete problem to solve
+
+Novelty Search for Neuroevolution!
+https://www.youtube.com/watch?v=-mxpn95uxS4
+
+- could consider novelty in different spheres
+	- genotype space
+	- phenotype space
+	- objective space
+	- behavior space
+	- ...
+	- all
+
+Targeted Exploration of Search Spaces - Combining Lexicase Selection and Novelty Search
+https://www.youtube.com/watch?v=AiuSBq4qfbo
+
+- combine lexicase selection and novelty search evaluation
+- great idea
+- maybe just focus on behaviors?
+
+Lexicase Selection
+https://push-language.hampshire.edu/t/lexicase-selection/90
+
+- about selection based on solutions that do well on specific test cases
+- specialists, not generalists
+
+The Surprising Creativity of Digital Evolution: A Collection of Anecdotes from the Evolutionary Computation and Artificial Life Research Communities
+https://arxiv.org/pdf/1803.03453.pdf
+
+
+----
+
+what do i think?
+
+- variation in genotypes (process)
+- variation in phenotypes (indirect mapping of g to p)
+- variation in behaviour (p)
+- variation in env
+- variation in drawing resources in order to achieve survival+reproduction
+	- fitness?
+- emergent competition
+
+----
+
+The Singular Origin of Complex Life
+https://www.youtube.com/watch?v=ncG_mn9BtRA
+
+- course or book on population ecology?
+- might be fun
+
+Inevitable Life?
+https://www.youtube.com/watch?v=ElMqwgkXguw
+
+The Post-Darwinian World
+https://www.youtube.com/watch?v=7cOvQ1_tuec
+
+Artificial Life, Open-Ended Evolution, and the Origins of Biological Complexity
+https://www.youtube.com/watch?v=qkHVIkOhABo
+
+
+

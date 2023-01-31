@@ -1,0 +1,36 @@
+ICML 2019 Tutorial: Recent Advances in Population-Based Search for Deep Neural Networks
+https://www.youtube.com/watch?v=g6HiuEnbwJE
+
+
+- endless surprises
+- open endedness
+- never ending algorithm
+- open-ended evolution
+	- OEE
+- open-ended processes
+	- art
+	- science
+	- architecture
+	- process...
+- OEE
+- generate new opportunities
+- new things to do
+- new environments
+	- new solutions
+	- search through solution spaces
+
+- generative teaching networks (GTN)
+
+- representation
+- indirect encoding
+	- an encoding that allows indirection
+- embryology
+	- classical book
+
+Open-endedness: The last grand challenge you’ve never heard of
+https://www.oreilly.com/radar/open-endedness-the-last-grand-challenge-youve-never-heard-of/
+
+
+
+- co-evolve functions and solvers, allow solvers to be retrieved and used in ad hoc functions
+

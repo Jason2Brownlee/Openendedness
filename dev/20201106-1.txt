@@ -1,0 +1,87 @@
+books on genetic programming?
+
+
+John Koza (series)
+
+- Genetic Programming: On the Programming of Computers by Means of Natural Selection, 1992.
+	https://amzn.to/3k3idtF
+- Genetic Programming II: Automatic Discovery of Reusable Programs, 1994.
+	https://amzn.to/2GxztJR
+- Genetic Programming III: Darwinian Invention and Problem Solving, 1999.
+	https://amzn.to/36chbXr
+- Genetic Programming IV: Routine Human-Competitive Machine Intelligence, 2003.
+	https://amzn.to/366MuTj
+
+
+Genetic Programming Theory and Practice (series)
+
+...
+- Genetic Programming Theory and Practice XV, 2018.
+	https://amzn.to/3567P05
+- Genetic Programming Theory and Practice XVI, 2019.
+	https://amzn.to/36nBG3x
+- Genetic Programming Theory and Practice XVII, 2020.
+	https://amzn.to/3n95ibF
+
+
+Genetic Programming European Conference, EuroGP (series)
+
+...
+- Genetic Programming: 21st European Conference, EuroGP 2018
+	https://amzn.to/3p0pQo9
+- Genetic Programming: 22nd European Conference, EuroGP 2019
+	https://amzn.to/38lIaT7
+- Genetic Programming: 23rd European Conference, EuroGP 2020
+	https://amzn.to/38bZ5r3
+
+
+Advances in Genetic Programming (series)
+
+- Advances in Genetic Programming, 1994.
+	https://amzn.to/2I9l86y
+- Advances in Genetic Programming 2, 1996.
+	https://amzn.to/2Id5reA
+- Advances in Genetic Programming 3, 1999.
+	https://amzn.to/2HZbnIJ
+
+
+General Textbooks
+
+- Genetic Programming: An Introduction, 1997.
+	https://amzn.to/32gW4ls
+- Genetic Programming and Data Structures, 1998.
+	https://amzn.to/3k8Xox2
+- Foundations of Genetic Programming, 2002.
+	https://amzn.to/2Ic6OdU
+- Linear Genetic Programming, 2006.
+	https://amzn.to/34Yra2Z
+- A Field Guide to Genetic Programming, 2008.
+	https://amzn.to/3p2xcrd
+- Cartesian Genetic Programming, 2011.
+	https://amzn.to/2GB5b94
+- Handbook of Genetic Programming Applications, 2015.
+	https://amzn.to/3p0ZpPn
+
+
+Grammatical Evolution
+
+- Grammatical Evolution: Evolutionary Automatic Programming in an Arbitrary Language, 2003.
+	https://amzn.to/366Y5ls
+- Foundations in Grammatical Evolution for Dynamic Environments, 2009.
+	https://amzn.to/3ewVd55
+- Handbook of Grammatical Evolution, 2018.
+	https://amzn.to/2TUcg7L
+
+--------------------------
+
+
+why can't GP deliver on the promise of automatically programming computers?
+	i guess it can but only in narrow domains
+
+all the simulations of evolution are contrived / too simple and the objective is specified rather than emergent
+
+
+
+
+
+

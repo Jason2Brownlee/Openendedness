@@ -1,0 +1,96 @@
+
+I like selecting "open system" or "open-ended evolution" as a research project goal.
+
+- summarize current thinking
+- do a suite of experiments
+- think about how to go further
+
+A scalable pipeline for designing reconfigurable organisms
+https://www.pnas.org/content/pnas/117/4/1853.full.pdf
+
+Zipf’s Law, unbounded complexity and open-ended evolution
+https://royalsocietypublishing.org/doi/10.1098/rsif.2018.0395
+
+the complexity is in the selection mechanism, really the evaluation mechanism
+novelty as defined as different to what came before forces the development of complexity
+we can tell a story to motivate this
+novelty required to move into new ecological niches
+even though the prior niches were only visited, not inhabited.
+we could reframe the process and allow survival in the prior encountered ecological niches
+this is not speciation, really just domain coverage
+development of behavior in order to achieve coverage, useful coverage
+this is the connection to map elites, useful coverage
+it highlights that we don't need to move into population evolution, that we can explore in one domain
+
+academic research and business are models
+go where others are not or recombine in ways others are not
+useful novelty or useful coverage
+
+
+Enabling conditions for ‘open-ended evolution’
+http://lifecognitionschool.ias-research.net/files/2010/06/Ruiz-Mirazo_etal_BP_2008.pdf
+
+decoupling of phenotype and genotype is probably important
+i'd argue that simulation of phenotype as part of evaluation also being important
+environment mediated stochastic evaluation
+
+maybe novelty is required because all the other bits are deterministic
+maybe if simulation was more stochastic, we could motivate by a different metric and get similar "novelty", e.g. useful coverage of the domain
+
+explosion, intelligence explosion and complexity explosion
+these are related concepts, positive feedback
+
+can the story of novelty search be told in other ways leading to alternate implementations
+can it be conceived more broadly or alternately
+
+Tim Taylor's publications
+http://www.tim-taylor.com/publications/
+
+An Overview of Open-Ended Evolution: Editorial Introduction to the Open-Ended Evolution II Special Issue
+https://arxiv.org/abs/1909.04430
+https://www.mitpressjournals.org/doi/abs/10.1162/artl_a_00291?journalCode=artl
+
+Evolutionary Innovations and Where to Find Them: Routes to Open-Ended Evolution in Natural and Artificial Systems
+https://arxiv.org/abs/1806.01883
+
+
+need to adapt self, e.g. structure, behaviour
+need to adapt perception, e.g. how much of the domain or modalities can be perceived
+need variation in env
+
+g-p map, mapping of genome state space to phenotype state space
+
+I think you need the ability for nonlinear mappings at each point in the process
+- representation, instantiation, simulation, evaluation, etc.
+
+Open-Ended Evolution: Perspectives from the OEE Workshop in York
+https://www.mitpressjournals.org/doi/full/10.1162/ARTL_a_00210
+https://www.mitpressjournals.org/doi/pdfplus/10.1162/ARTL_a_00210
+
+Evolution and tinkering
+http://nicorg.pbworks.com/w/file/fetch/41529753/Jacob%20Evolution%20and%20Tinkering.pdf
+
+- tinkering, not designed
+- working with what is available
+- improvisation
+
+The evolutionary ecology of technological innovations
+https://onlinelibrary.wiley.com/doi/abs/10.1002/cplx.21436
+https://core.ac.uk/download/pdf/41770496.pdf
+
+it would be fun to experiment with evo-evo for func-opt
+- allowing evolution of each element, genome, genome to phenotype translation, evolutionary operators, perception of environment, etc.
+
+Understanding Innovation Engines: Automated Creativity and Improved Stochastic Optimization via Deep Learning
+https://www.mitpressjournals.org/doi/full/10.1162/EVCO_a_00189
+
+- neural net distance function
+
+Evolution: Limited & Predictable or Unbounded & Lawless?
+https://www.worldwidewanderings.net/Publications/EvolutionViews.pdf
+
+
+
+
+
+

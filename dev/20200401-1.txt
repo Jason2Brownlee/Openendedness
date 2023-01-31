@@ -1,0 +1,30 @@
+ec as the master algorithm?
+
+anml
+- https://videos.re-work.co/videos/1861-anml-learning-to-continually-learn
+- overcome catastrophic forgetting across learning tasks
+
+Learning to Continually Learn
+https://arxiv.org/pdf/2002.09571.pdf
+- A Neuromodulated Meta-Learning Algorithm (ANML)
+
+Meta-Learning Representations for Continual Learning
+https://arxiv.org/pdf/1905.12588.pdf
+- basis for anml
+
+Resolving the paradox of evolvability with learning theory: How evolution learns to improve evolvability on rugged fitness landscapes
+https://arxiv.org/pdf/1612.05955.pdf
+
+Stanford CS330: Deep Multi-Task and Meta Learning
+https://www.youtube.com/playlist?list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5
+- Stanford CS330: Multi-Task and Meta-Learning, 2019 | Lecture 10 - Jeff Clune (Uber AI Labs)
+
+20 Questions with Jeff Clune, Research Team Lead, OpenAI
+https://www.youtube.com/watch?v=9Ml71LdNIAs
+
+Interview with Jeff Clune, Uber AI Labs
+https://www.youtube.com/watch?v=tEh0LDy4-sw
+
+ICML 2019 Tutorial: Recent Advances in Population-Based Search for Deep Neural Networks
+https://www.youtube.com/watch?v=g6HiuEnbwJE
+
