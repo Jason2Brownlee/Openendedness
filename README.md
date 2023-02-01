@@ -8,8 +8,8 @@ For now this means reading a lot and thinking. This repository captures some of 
 
 ### 2023
 
-* [We have not achieved artificial evolution](notes/20230130.txt)
-* [Openendedness is part of the roadmap to a new automated computational scientific method](notes/20230131.txt)
+* [We have not achieved artificial evolution](notes/20230130.md)
+* [Openendedness as part of automated scientific method](notes/20230131.md)
 * [Papers to explore](notes/20230131-2.txt)
 * [Review and Limitations of Evolutionary Computation](notes/20230201.md)
 
