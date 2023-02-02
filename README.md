@@ -12,6 +12,7 @@ For now this means reading a lot and thinking. This repository captures some of 
 * [Openendedness as part of automated scientific method](notes/20230131.md)
 * [Papers to explore](notes/20230131-2.txt)
 * [Review and Limitations of Evolutionary Computation](notes/20230201.md)
+* [Modeling and Measuring Openendedness](notes/20230202.md)
 
 ### 2021
 
