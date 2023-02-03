@@ -14,6 +14,7 @@ For now this means reading a lot and thinking. This repository captures some of 
 * [Review and Limitations of Evolutionary Computation](notes/20230201.md)
 * [Modeling and Measuring Openendedness](notes/20230202.md)
 * [Framework for Openendedness in Evolutionary Systems](notes/20230203.md)
+* [What does a solution look like?](notes/20230204.md)
 
 ### 2021
 
