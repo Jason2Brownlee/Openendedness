@@ -19,8 +19,6 @@ For now this means reading a lot and thinking. This repository captures some of 
 ### 2021
 
 * [20210204-1.txt](notes/20210204-1.txt)
-* [20201106-1.txt](notes/20201106-1.txt)
-* [20201122-1.txt](notes/20201122-1.txt)
 * [20210108-1.txt](notes/20210108-1.txt)
 * [20210129-1.txt](notes/20210129-1.txt)
 
