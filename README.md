@@ -8,11 +8,12 @@ For now this means reading a lot and thinking. This repository captures some of 
 
 ### 2023
 
-* [We have not achieved artificial evolution](notes/20230130.md)
-* [Openendedness as part of automated scientific method](notes/20230131.md)
-* [Papers to explore](notes/20230131-2.txt)
+* [We Have Not Achieved Artificial Evolution](notes/20230130.md)
+* [Openendedness As Part Of Automated Scientific Method](notes/20230131.md)
+* [Papers to Explore](notes/20230131-2.txt)
 * [Review and Limitations of Evolutionary Computation](notes/20230201.md)
 * [Modeling and Measuring Openendedness](notes/20230202.md)
+* [Framework for Openendedness in Evolutionary Systems](notes/20230203.md)
 
 ### 2021
 
