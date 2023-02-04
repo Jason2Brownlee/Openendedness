@@ -15,6 +15,7 @@ For now this means reading a lot and thinking. This repository captures some of 
 * [Modeling and Measuring Openendedness](notes/20230202.md)
 * [Framework for Openendedness in Evolutionary Systems](notes/20230203.md)
 * [What does a solution look like?](notes/20230204.md)
+* [Open-endedness at DeepMind](notes/20230205.md)
 
 ### 2021
 
