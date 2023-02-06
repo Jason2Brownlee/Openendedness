@@ -17,7 +17,7 @@ For now this means reading a lot and thinking. This repository captures some of 
 * [What does a solution look like?](notes/20230204.md)
 * [Open-endedness at DeepMind](notes/20230205.md)
 * [Open-endedness Grand Challenge](notes/20230206.md)
-* [Limitations of ALife Regarding Open-ended Evolution](notes/20230206.md)
+* [Identifying When We DON'T HAVE Openendedness](notes/20230207.md)
 
 ### 2021
 
