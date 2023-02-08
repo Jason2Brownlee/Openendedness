@@ -18,6 +18,7 @@ For now this means reading a lot and thinking. This repository captures some of 
 * [Open-endedness at DeepMind](notes/20230205.md)
 * [Open-endedness Grand Challenge](notes/20230206.md)
 * [Identifying When We DON'T HAVE Openendedness](notes/20230207.md)
+* [Cumulative and Average Evolutionary Activity](notes/20230208.md)
 
 ### 2021
 
