@@ -20,6 +20,7 @@ For now this means reading a lot and thinking. This repository captures some of 
 * [Identifying When We DON'T HAVE Openendedness](notes/20230207.md)
 * [Cumulative and Average Evolutionary Activity](notes/20230208.md)
 * [Overview of Open-Ended Evolution Tokyo Workshop](notes/20230209.md)
+* [Neural nets as dynamical systems and genetic algorithms as systems of adaptation]((notes/20230214.md))
 
 ### 2021
 
