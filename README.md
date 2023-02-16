@@ -22,6 +22,7 @@ For now this means reading a lot and thinking. This repository captures some of 
 * [Overview of Open-Ended Evolution Tokyo Workshop](notes/20230209.md)
 * [Neural nets as dynamical systems and genetic algorithms as systems of adaptation](notes/20230214.md)
 * [Genetic Algorithms are Robust Adaptive Systems For Sequential Decision Problems](notes/20230215.md)
+* [We may need better definitions of diversity and complexity](notes/20230216.md)
 
 
 ### 2021
